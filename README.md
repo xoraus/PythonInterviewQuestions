@@ -2,7 +2,6 @@ Python is a general-purpose language, which means it can be used to build just a
 
 Professionally, Python is great for backend web development, data analysis, artificial intelligence, and scientific computing. Many developers have also used Python to build productivity tools, games, and desktop apps, so there are plenty of resources to help you learn how to do those as well.
 
-![](https://miro.medium.com/max/60/1*77jfh9gAXbhaL1zR0NNr2g.png?q=20)
 
 ![](https://miro.medium.com/max/1189/1*77jfh9gAXbhaL1zR0NNr2g.png)
 
